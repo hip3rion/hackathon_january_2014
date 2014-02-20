@@ -241,6 +241,7 @@
                     <xsd:element name="email" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="firstname" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="lastname" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="taxvat" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="password" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="confirmation" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="website_id" type="xsd:int" minOccurs="0"/>
@@ -254,6 +255,7 @@
                     <xsd:element name="address_id" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="firstname" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="lastname" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="email" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="company" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="street" type="xsd:string" minOccurs="0"/>
                     <xsd:element name="city" type="xsd:string" minOccurs="0"/>
